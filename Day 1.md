@@ -23,6 +23,8 @@
 * Kafka = topics
 * Zookeeper = clustering, used in Kafka.
 
+
+
 **Port Numbers (default)**
 
 * Kafka - 9092 (clients. i.e Logstash)
